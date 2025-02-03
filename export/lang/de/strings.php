@@ -40,7 +40,7 @@ return [
     'consent_title' => 'Cookies 🍪',
     'consent_learn_more' => 'Details',
     'consent_change_preferences' => 'Cookie-Einstellungen bearbeiten',
-    'consent_more_info' => 'Mehr Information',
+    'consent_more_info' => 'Details',
 
     // Footer
     'on' => 'auf',
